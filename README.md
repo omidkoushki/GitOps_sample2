@@ -1,5 +1,13 @@
 # GitOps_Example
 
+# Create flux namespace in k8s cluster
+
+kubectl config current-context
+
+kubectl create ns flux
+
+
+
     #Setup Fluxctl Binary 
 
 sudo wget https://github.com/fluxcd/flux/releases/download/1.24.2/fluxctl_windows_amd64 -O /usr/bin/fluxctl && sudo chmod +x /usr/bin/fluxctl
