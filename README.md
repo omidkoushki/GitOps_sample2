@@ -1,4 +1,4 @@
-# GitOps_Example
+# GitOps_Example2 just for test omid
 
 # Create flux namespace in k8s cluster
 
