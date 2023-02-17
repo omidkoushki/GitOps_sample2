@@ -6,7 +6,7 @@ kubectl config current-context
 
 kubectl create ns flux
 
-
+salam man fatemeh hastam
 
     #Setup Fluxctl Binary 
 
